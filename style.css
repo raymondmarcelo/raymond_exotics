@@ -1,0 +1,12 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: black;
+  color: #ffffff;
+}
+.bg-333 { background-color: #333333; }
+.bg-444 { background-color: #444444; }
+.bg-555 { background-color: #555555; }
+.text-999 { color: #999999; }
+.hover\:text-999:hover { color: #999999; }
+.hover\:bg-555:hover { background-color: #555555; }
+.border-444 { border-color: #444444; }
